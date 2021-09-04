@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheKingMaster
-- 👀 I’m interested in learning new things and have emotions
+- 👀 I’m interested in learning new things and having emotions
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
